@@ -25,6 +25,3 @@ if st.sidebar.button("다른 페이지로 이동"):
 
     # 페이지를 새 URL로 리다이렉트
     st.experimental_rerun()
-
-# 이 페이지의 나머지 콘텐츠
-st.write("현재 페이지입니다.")
